@@ -1,1 +1,1 @@
-![alt text](./AWS console.png)
+![alt text](AWS console.png)
