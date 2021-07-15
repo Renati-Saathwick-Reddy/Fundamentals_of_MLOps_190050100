@@ -1,0 +1,12 @@
+mkdir mlops_dvc
+cd mlops_dvc
+
+echo "# mlops_dvc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Renati-Saathwick-Reddy/mlops_dvc.git
+git push -u origin main
+
+dvc init
